@@ -4,7 +4,8 @@ import router from '../router'
 import { v4 as uuidv4 } from 'uuid';
 import axios from "axios";
 
-const BASE_URL = 'https://my-json-server.typicode.com/Hyel99/VueNaenaeng';
+const BASE_URL_RECIPES = 'https://my-json-server.typicode.com/HyeL99/db-naenaeng-recipes';
+const BASE_URL_USERS = 'https://my-json-server.typicode.com/HyeL99/db-naenaeng-users';
 
 Vue.use(Vuex)
 
@@ -192,10 +193,10 @@ export default new Vuex.Store({
         data: contentsObj
       }
       console.log(recipeData)
-      axios.post(BASE_URL+'/recipes',recipeData)
+      axios.post(BASE_URL_RECIPES+'/recipes',recipeData)
           .then(res => {
             let recipeId = res.data.id;
-            axios.get(BASE_URL+'/recipes')
+            axios.get(BASE_URL_RECIPES+'/recipes')
                 .then(result => context.state.recipeList = result.data)
                 .then(()=>router.push({name: 'recipe', params:{recipeId}}))
                 .catch(err => console.log(err))
@@ -204,8 +205,8 @@ export default new Vuex.Store({
     },
     getStartList(context){
       context.state.isLoading = true;
-      const getUserListApi = axios.get(BASE_URL+'/user');
-      const getRecipeListApi = axios.get(BASE_URL+'/recipes')
+      const getUserListApi = axios.get(BASE_URL_USERS+'/user');
+      const getRecipeListApi = axios.get(BASE_URL_RECIPES+'/recipes')
       Promise.all([getUserListApi, getRecipeListApi])
           .then(res => {
             let [userList, recipeList] = res;
@@ -213,7 +214,10 @@ export default new Vuex.Store({
             context.state.recipeList = recipeList.data
           })
           .then(()=>context.state.isLoading = false)
-          .catch(err => console.log(err))
+          .catch(err => {
+            console.log(err);
+            context.state.isLoading = false
+          })
     }
   },
   modules: {
