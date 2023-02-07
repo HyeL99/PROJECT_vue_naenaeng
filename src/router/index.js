@@ -1,13 +1,13 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import CategoryView from "@/views/CategoryView.vue";
-import CommunityView from "@/views/CommunityView.vue";
-import LoginView from "@/views/LoginView.vue";
-import SignUpView from "@/views/SignUpView.vue";
-import MypageView from "@/views/MypageView.vue";
-import UploadRecipeView from "@/views/UploadRecipeView.vue";
-import RecipeDetailView from "@/views/RecipeDetailView.vue";
+import CategoryView from "../views/CategoryView.vue";
+import CommunityView from "../views/CommunityView.vue";
+import LoginView from "../views/LoginView.vue";
+import SignUpView from "../views/SignUpView.vue";
+import MypageView from "../views/MypageView.vue";
+import UploadRecipeView from "../views/UploadRecipeView.vue";
+import RecipeDetailView from "../views/RecipeDetailView.vue";
 
 Vue.use(VueRouter)
 

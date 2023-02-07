@@ -42,7 +42,7 @@
 
 <script>
 
-import TitleComponent from "@/components/TitleComponent.vue";
+import TitleComponent from "../components/TitleComponent.vue";
 import {mapState} from "vuex";
 import RecipeCardComponent from "../components/RecipeCardComponent.vue";
 

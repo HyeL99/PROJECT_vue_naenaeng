@@ -1,10 +1,10 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import router from '@/router'
+import router from '../router'
 import { v4 as uuidv4 } from 'uuid';
 import axios from "axios";
 
-const BASE_URL = 'https://my-json-server.typicode.com/hyel99/VueNaenaeng';
+const BASE_URL = 'http://localhost:3000';
 
 Vue.use(Vuex)
 
@@ -25,56 +25,56 @@ export default new Vuex.Store({
       {
         name: '모두 보기',
         engName: 'all',
-        imgPath: require('@/assets/images/category/btn-all.png'),
-        blackImgPath: require('@/assets/images/category/btn-all-black.png'),
+        imgPath: require('../assets/images/category/btn-all.png'),
+        blackImgPath: require('../assets/images/category/btn-all-black.png'),
       },
       {
         name: '이유식',
         engName: 'baby',
-        imgPath: require('@/assets/images/category/btn-baby.png'),
-        blackImgPath: require('@/assets/images/category/btn-baby-black.png'),
+        imgPath: require('../assets/images/category/btn-baby.png'),
+        blackImgPath: require('../assets/images/category/btn-baby-black.png'),
       },
       {
         name: '베이킹',
         engName: 'baking',
-        imgPath: require('@/assets/images/category/btn-baking.png'),
-        blackImgPath: require('@/assets/images/category/btn-baking-black.png'),
+        imgPath: require('../assets/images/category/btn-baking.png'),
+        blackImgPath: require('../assets/images/category/btn-baking-black.png'),
       },
       {
         name: '다이어트',
         engName: 'diet',
-        imgPath: require('@/assets/images/category/btn-diet.png'),
-        blackImgPath: require('@/assets/images/category/btn-diet-black.png'),
+        imgPath: require('../assets/images/category/btn-diet.png'),
+        blackImgPath: require('../assets/images/category/btn-diet-black.png'),
       },
       {
         name: '집들이',
         engName: 'home',
-        imgPath: require('@/assets/images/category/btn-home.png'),
-        blackImgPath: require('@/assets/images/category/btn-home-black.png'),
+        imgPath: require('../assets/images/category/btn-home.png'),
+        blackImgPath: require('../assets/images/category/btn-home-black.png'),
       },
       {
         name: '야식',
         engName: 'night',
-        imgPath: require('@/assets/images/category/btn-night.png'),
-        blackImgPath: require('@/assets/images/category/btn-night-black.png'),
+        imgPath: require('../assets/images/category/btn-night.png'),
+        blackImgPath: require('../assets/images/category/btn-night-black.png'),
       },
       {
         name: '파티',
         engName: 'party',
-        imgPath: require('@/assets/images/category/btn-party.png'),
-        blackImgPath: require('@/assets/images/category/btn-party-black.png'),
+        imgPath: require('../assets/images/category/btn-party.png'),
+        blackImgPath: require('../assets/images/category/btn-party-black.png'),
       },
       {
         name: '자취',
         engName: 'self',
-        imgPath: require('@/assets/images/category/btn-self.png'),
-        blackImgPath: require('@/assets/images/category/btn-self-black.png'),
+        imgPath: require('../assets/images/category/btn-self.png'),
+        blackImgPath: require('../assets/images/category/btn-self-black.png'),
       },
       {
         name: '간식',
         engName: 'snack',
-        imgPath: require('@/assets/images/category/btn-snack.png'),
-        blackImgPath: require('@/assets/images/category/btn-snack-black.png'),
+        imgPath: require('../assets/images/category/btn-snack.png'),
+        blackImgPath: require('../assets/images/category/btn-snack-black.png'),
       },
 
     ],

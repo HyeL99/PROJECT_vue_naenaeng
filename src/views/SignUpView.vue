@@ -3,10 +3,10 @@
   <div class="inner">
     <section>
       <div class="face">
-        <img src="@/assets/images/face.png" alt="내냉">
+        <img src="../assets/images/face.png" alt="내냉">
       </div>
       <div class="contents">
-        <img src="@/assets/images/loginTitle.png" alt="내냉">
+        <img src="../assets/images/loginTitle.png" alt="내냉">
         <hr>
         <div class="linkBtns">
           <span :class="thisPage === 1 ? 'circle big yellow' : 'circle big'">개인정보</span>

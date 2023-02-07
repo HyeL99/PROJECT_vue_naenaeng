@@ -2,17 +2,17 @@
   <carousel :autoplay="true" :loop="true" :perPage="1" :paginationEnabled="false" class="titleCarousel">
     <Slide>
       <div class="imgWrap">
-        <img src="@/assets/images/event_001.png" alt="이벤트페이지" class="carouselItem">
+        <img src="../assets/images/event_001.png" alt="이벤트페이지" class="carouselItem">
       </div>
     </Slide>
     <Slide>
       <div class="imgWrap">
-        <img src="@/assets/images/event_002.png" alt="이벤트페이지" class="carouselItem">
+        <img src="../assets/images/event_002.png" alt="이벤트페이지" class="carouselItem">
       </div>
     </Slide>
     <Slide>
       <div class="imgWrap">
-        <img src="@/assets/images/event_003.png" alt="이벤트페이지" class="carouselItem">
+        <img src="../assets/images/event_003.png" alt="이벤트페이지" class="carouselItem">
       </div>
     </Slide>
   </carousel>

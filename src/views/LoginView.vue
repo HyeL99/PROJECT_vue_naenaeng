@@ -3,20 +3,20 @@
   <div class="inner">
     <section>
       <div class="face">
-        <img src="@/assets/images/face.png" alt="내냉">
+        <img src="../assets/images/face.png" alt="내냉">
       </div>
       <div class="contents">
-        <img src="@/assets/images/loginTitle.png" alt="내냉">
+        <img src="../assets/images/loginTitle.png" alt="내냉">
         <hr>
         <p>레시피 저장소 🥄내냉에 오신 것을 환영합니다🎉</p>
         <button @click="doLogin('naver')" class="socialBtn">
-          <img src="@/assets/images/logo-naver.png" alt="네이버"> 네이버로 로그인
+          <img src="../assets/images/logo-naver.png" alt="네이버"> 네이버로 로그인
         </button>
         <button @click="doLogin('kakao')" class="socialBtn">
-          <img src="@/assets/images/logo-kakao.png" alt="카카오"> 카카오로 로그인
+          <img src="../assets/images/logo-kakao.png" alt="카카오"> 카카오로 로그인
         </button>
         <button @click="doLogin('google')" class="socialBtn">
-          <img src="@/assets/images/logo-google.png" alt="구글"> 구글로 로그인
+          <img src="../assets/images/logo-google.png" alt="구글"> 구글로 로그인
         </button>
       </div>
     </section>

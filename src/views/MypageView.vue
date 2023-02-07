@@ -63,9 +63,9 @@
 
 <script>
 import {mapActions, mapState} from "vuex";
-import store from "@/store";
-import router from "@/router";
-import RecipeCardComponent from "@/components/RecipeCardComponent.vue";
+import store from "../store";
+import router from "../router";
+import RecipeCardComponent from "../components/RecipeCardComponent.vue";
 
 export default {
   name: "MypageView",

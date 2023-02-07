@@ -1,9 +1,9 @@
 <template>
   <header>
     <div class="inner">
-      <router-link :to="{name:'home'}"><h1><img src="@/assets/images/logo.png" alt="내냉" title="내냉"></h1></router-link>
+      <router-link :to="{name:'home'}"><h1><img src="../assets/images/logo.png" alt="내냉" title="내냉"></h1></router-link>
       <form @submit="searchRecipe">
-        <label for="searchInput"><img src="@/assets/images/search.png" alt="검색아이콘"></label>
+        <label for="searchInput"><img src="../assets/images/search.png" alt="검색아이콘"></label>
         <input type="text" id="searchInput" v-model="searchInput" placeholder="원하시는 레시피를 찾아가세요! 🥄내냉">
       </form>
       <nav>

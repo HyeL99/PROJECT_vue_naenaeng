@@ -34,7 +34,7 @@
         </template>
       </ul>
       <div class="time">
-        <img src="@/assets/images/timer.svg" alt="">{{recipeData.data.time}}분 소요
+        <img src="../assets/images/timer.svg" alt="">{{recipeData.data.time}}분 소요
       </div>
     </div>
 
