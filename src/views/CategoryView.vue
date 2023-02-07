@@ -36,7 +36,7 @@
 
 <script>
 import {mapState} from "vuex";
-import RecipeCardComponent from "@/components/RecipeCardComponent.vue";
+import RecipeCardComponent from "../components/RecipeCardComponent.vue";
 
 export default {
   name: "CategoryView",
