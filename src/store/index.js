@@ -4,7 +4,7 @@ import router from '../router'
 import { v4 as uuidv4 } from 'uuid';
 import axios from "axios";
 
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https://my-json-server.typicode.com/Hyel99/VueNaenaeng';
 
 Vue.use(Vuex)
 
