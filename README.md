@@ -1,5 +1,7 @@
 # recipes
 
+<https://vue-naenaeng.netlify.app/>
+
 ## Project setup
 ```
 npm install
