@@ -1,0 +1,47 @@
+{
+  "user": [
+    {
+      "id": "dafldkfjl",
+      "username": "쿠로미",
+      "email": "kuromi@ex.com",
+      "profile": {
+        "name": "new_main_crt3_ov.png",
+        "path": "http://sanriokorea.co.kr/wp-content/themes/sanrio/images/new_main_crt3_ov.png"
+      },
+      "interest": [
+        "파티",
+        "집들이"
+      ],
+      "likes": []
+    },
+    {
+      "id": "dafsdffjl",
+      "username": "포차코",
+      "email": "pochacco@ex.com",
+      "profile": {
+        "name": "new_main_crt7_ov.png",
+        "path": "http://sanriokorea.co.kr/wp-content/themes/sanrio/images/new_main_crt7_ov.png"
+      },
+      "interest": [
+        "베이킹",
+        "자취",
+        "간식"
+      ],
+      "likes": []
+    },
+    {
+      "id": "kcsdoffjl",
+      "username": "ex01",
+      "email": "ex01@ex.com",
+      "profile": {
+        "name": "SE-ef01aea9-875e-4488-8703-3b19c8bbf1db.jpg",
+        "path": "https://mblogthumb-phinf.pstatic.net/MjAyMDAzMjRfMzUg/MDAxNTg1MDIzNzk1Mzkw.w7AiKQZ-Mhut8DihPl0pJD2fKaIzsWPsya5UivZgmi8g.dfmVrePQTQRqQEow2knFOAbThCwpfYeedPPNO1kS7ykg.JPEG.with_msip/SE-ef01aea9-875e-4488-8703-3b19c8bbf1db.jpg?type=w800"
+      },
+      "interest": [
+        "다이어트",
+        "야식"
+      ],
+      "likes": []
+    }
+  ]
+}

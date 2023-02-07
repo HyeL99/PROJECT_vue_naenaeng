@@ -1,0 +1,513 @@
+{
+  "recipes": [
+    {
+      "id": "cdb5c920-0058-486a-a67b-7f33d3cd3362",
+      "writer": "포차코",
+      "time": "2023-02-06T08:02:25.797Z",
+      "data": {
+        "title": "소세지야채볶음 황금레시피, 쏘야 맛있게만들기",
+        "category": [
+          "야식",
+          "자취"
+        ],
+        "time": "30",
+        "ingredients": [
+          {
+            "name": "비엔나소세지",
+            "quantity": "1",
+            "unit": "봉지"
+          },
+          {
+            "name": "양파",
+            "quantity": "0.3",
+            "unit": "개"
+          },
+          {
+            "name": "파프리카",
+            "quantity": "0.3",
+            "unit": "개"
+          },
+          {
+            "name": "당근 ",
+            "quantity": "0.3",
+            "unit": "개"
+          },
+          {
+            "name": "케찹",
+            "quantity": "2",
+            "unit": "TS"
+          },
+          {
+            "name": "고추장",
+            "quantity": "1",
+            "unit": "TS"
+          },
+          {
+            "name": "굴소스 ",
+            "quantity": "1",
+            "unit": "TS"
+          },
+          {
+            "name": "올리고당",
+            "quantity": "1",
+            "unit": "TS"
+          },
+          {
+            "name": "다진마늘",
+            "quantity": "0.3",
+            "unit": "TS"
+          }
+        ],
+        "tags": [
+          "소세지",
+          "쏘야",
+          "소세지야채볶음"
+        ],
+        "thumbnail": {
+          "name": "907c4662b413b0cdbc4e9ea088935ba21[1].jpg",
+          "path": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/907c4662b413b0cdbc4e9ea088935ba21.jpg"
+        },
+        "contents": [
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/4a0933f9a0433e9317727cd4663ec9821.jpg",
+            "text": "야채를 먹기 좋은 크기로 잘라주세요."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/799fa4324973799fae6b45fd546f1fe01.jpg",
+            "text": "비엔나소세지에 칼집을 내어 끓는 물에 데쳐주세요.\n데치는 과정은 생략 가능하지만, 저는 불순물 제거와 예쁜 모양을 위해 꼭 해주고 있어요."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/7e9c2a509da26faf9fb5c7bd3ae00f281.jpg",
+            "text": "양념장을 만들어주세요.\n\n케첩 2스푼, 고추장 1스푼, 굴소스 1스푼, 올리고당 1스푼, 다진마늘 1/3스푼"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/1df20e209c2ce3939c3a316a9f0f00261.jpg",
+            "text": "식용유를 팬에 두르고, 손질해둔 야채는 중약불로 볶아주세요."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/f0fae149bb35453631e84d9675f5ff821.jpg",
+            "text": "야채가 어느 정도 익었다면 소세지를 넣고 2~3분간 볶아주세요."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/977c7b7ccf9df384a45b132d7e16d53e1.jpg",
+            "text": "미리 만들어둔 양념장을 넣고 약불로 3분간 볶아주세요."
+          }
+        ]
+      }
+    },
+    {
+      "id": "812721b8-9a50-4fa9-877c-8b06d5b93404",
+      "writer": "쿠로미",
+      "time": "2023-02-06T08:20:47.337Z",
+      "data": {
+        "title": "백종원의 부추 달걀 볶음",
+        "category": [
+          "자취"
+        ],
+        "time": "15",
+        "ingredients": [
+          {
+            "name": "부추",
+            "quantity": "50",
+            "unit": "g"
+          },
+          {
+            "name": "달걀",
+            "quantity": "4",
+            "unit": "개"
+          },
+          {
+            "name": "식용유",
+            "quantity": " ",
+            "unit": "약간"
+          },
+          {
+            "name": "밥",
+            "quantity": "2",
+            "unit": "공기"
+          },
+          {
+            "name": "굴소스",
+            "quantity": "1",
+            "unit": "TS"
+          },
+          {
+            "name": "참기름",
+            "quantity": "1",
+            "unit": "TS"
+          }
+        ],
+        "tags": [
+          "부추",
+          "달걀",
+          "계란",
+          "부추달걀볶음",
+          "부추계란볶음"
+        ],
+        "thumbnail": {
+          "name": "bbc059c608dd01cfa43ebcb45c1882a81.jpg",
+          "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/27/bbc059c608dd01cfa43ebcb45c1882a81.jpg"
+        },
+        "contents": [
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/27/2eb35792f527cd4c430197c0d61a07e41.jpg",
+            "text": "부추는 적당한 크기로 썰고 달걀은 여러번 저어서 곱게 풀어 놓습니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/27/3bbda757ef01366beb23284a77d9b6411.jpg",
+            "text": "팬에 식용유를 두르고 뜨거워지면 달걀을 붓고 젓가락으로 저으면서 익혀주세요."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/27/62e41d0f1475f200e518030f6c23fe5c1.jpg",
+            "text": "부추와 굴소스를 넣고 볶아주세요."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/27/c73302ca99881dc4866f02111f3d3fbb1.jpg",
+            "text": "달걀과 섞은후 불을 끄고 참기름을 넣고 저어준 후"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/27/b589d3a4486b726f751857e814b535461.jpg",
+            "text": "그릇에 밥 한공기를 담고 그위에 부추 달걀 볶음을 담아주세요."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e4688746-e8a3-4e28-8939-b8b33d62e6b7",
+      "writer": "쿠로미",
+      "time": "2023-02-07T00:18:27.254Z",
+      "data": {
+        "title": "모양까지 예쁜 핑거푸드[양송이버섯 타파스]",
+        "category": [
+          "집들이",
+          "파티"
+        ],
+        "time": "20",
+        "ingredients": [
+          {
+            "name": "양송이버섯",
+            "quantity": "15",
+            "unit": "개"
+          },
+          {
+            "name": "양파",
+            "quantity": "0.5",
+            "unit": "개"
+          },
+          {
+            "name": "치즈",
+            "quantity": "2",
+            "unit": "개"
+          },
+          {
+            "name": "닭가슴살",
+            "quantity": "100",
+            "unit": "g"
+          },
+          {
+            "name": "파프리카",
+            "quantity": "0.3",
+            "unit": "개"
+          },
+          {
+            "name": "후추",
+            "quantity": " ",
+            "unit": "약간"
+          }
+        ],
+        "tags": [
+          "양송이",
+          "양송이버섯",
+          "타바스",
+          "핑거푸드"
+        ],
+        "thumbnail": {
+          "name": "c0a7cb14f6e026cd135c5a9ddf65b8be1.jpg",
+          "path": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/11/c0a7cb14f6e026cd135c5a9ddf65b8be1.jpg"
+        },
+        "contents": [
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/11/37618932c6414ad760be04d826e5de641.jpg",
+            "text": "양송이 버섯은 꼭지를 제거하고 불순물을 털어\n흐르느물에 살짝 씻어주세요"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/11/37618932c6414ad760be04d826e5de641.jpg",
+            "text": "닭가슴살을 잘게 다지고"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/11/34efcd6b31bcab289ae29a255cf4fdb71.jpg",
+            "text": "파프리카와 양파도 잘게 다져줍니다. 피클이나 다른 채소들을 이용해도 좋아요~"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/11/92742ae9967bc4220fce8672927ca8661.jpg",
+            "text": "볼에 다진재료를 넣고 후추를 살짝 뿌려 간을 합니다"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/11/67923d63bac1179fbdba479243d1c8be1.jpg",
+            "text": "양송이버섯 속에 다진재료들을 넣어주고"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/11/766bd1fa770e0ffd7fb4a006fc6df7851.jpg",
+            "text": "치즈를 잘라 올려줍니다. 피자치즈를 이용해도 좋아요!"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/11/27b04e1a0ac27220e1d3b7a2f410f6771.jpg",
+            "text": "전자레인지에 치즈가 녹을때까지 돌려주세요."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/11/6a8776a53df063fb302b64f598b621a91.jpg",
+            "text": "한입에 쏙쏙 먹는재미도 있는 양송이 타파스 완성입니다"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0a259882-0674-4271-917b-5c43749e96af",
+      "writer": "쿠로미",
+      "time": "2023-02-07T00:25:50.922Z",
+      "data": {
+        "title": "두부면 새우오일파스타, 다이어트에도 좋아요",
+        "category": [
+          "다이어트",
+          "파티",
+          "자취"
+        ],
+        "time": "20",
+        "ingredients": [
+          {
+            "name": "통마늘",
+            "quantity": "10",
+            "unit": "개"
+          },
+          {
+            "name": "새우",
+            "quantity": "8",
+            "unit": "개"
+          },
+          {
+            "name": "올리브오일",
+            "quantity": " ",
+            "unit": "적당히"
+          },
+          {
+            "name": "소금",
+            "quantity": " ",
+            "unit": "적당히"
+          },
+          {
+            "name": "후추",
+            "quantity": " ",
+            "unit": "적당히"
+          }
+        ],
+        "tags": [
+          "두부면",
+          "마늘",
+          "오일파스타",
+          "새우오일파스타",
+          "다이어트"
+        ],
+        "thumbnail": {
+          "name": "8c8087677ac5f71ffb80fa9d4241c6c11.jpg",
+          "path": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/8c8087677ac5f71ffb80fa9d4241c6c11.jpg"
+        },
+        "contents": [
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/329fd46f3f56d599236857cd03475d341.jpg",
+            "text": "면두부"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/8b27753fec662b845b8296db596afc411.jpg",
+            "text": "새우 6마리 (요것도 코스트코 냉동새우)"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/2e6d69843b3e3d56e8102b1aacd7c89c1.jpg",
+            "text": "마늘은 편마늘로 준비합니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/4f81613c0a99018fe297b6c894d40d871.jpg",
+            "text": "팬에 올리브오일 넉넉히 두르고 편마늘 넣어서 노릇하게 볶아질때쯤"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/83b5d9ee0be53de2283c6fad6bd3520b1.jpg",
+            "text": "새우를 넣고 함께 볶아줍니다.\n이때 소금과 후추를 촥촥 뿌려줍니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/edc62f92d4d1bb2e530d00f97964cdf41.jpg",
+            "text": "새우가 어느정도 익었을때쯤 마지막에 두부면을 넣고 살짝 볶아주기만하면"
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/48f37e5ce365d7833d37dd3dcc2dad651.jpg",
+            "text": "두부면 새우오일파스타 완성입니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/61482e3964427c454275e50158b590511.jpg",
+            "text": "꼬독꼬독한 식감에 고소함이 더해진 두부면 새우오일파스타 다이어트에도 좋은거같아요 ^^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e505d9f2-5fd4-4f18-a307-f615c759005f",
+      "writer": "쿠로미",
+      "time": "2023-02-07T00:31:57.521Z",
+      "data": {
+        "title": "부드럽고 고소한 두부참깨 이유식",
+        "category": [
+          "이유식"
+        ],
+        "time": "15",
+        "ingredients": [
+          {
+            "name": "두부",
+            "quantity": "0.25",
+            "unit": "개"
+          },
+          {
+            "name": "참깨",
+            "quantity": " ",
+            "unit": "약간"
+          },
+          {
+            "name": "쌀밥",
+            "quantity": "100",
+            "unit": "g"
+          }
+        ],
+        "tags": [
+          "이유식",
+          "두부",
+          "참깨"
+        ],
+        "thumbnail": {
+          "name": "a34442e42fc68418a08519881d672a471.png",
+          "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/a34442e42fc68418a08519881d672a471.png"
+        },
+        "contents": [
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/54ebeab0968ec1f1274591c4e14120561.png",
+            "text": "참깨를 잘게 갈아주세요. 고소한 향이 더욱 풍부해집니다. 믹서기로 갈아주세요. 그게 빠릅니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/3c84b20b3511da6ae8ea73d476d117301.png",
+            "text": "두부를 썰어줍니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/4b119f958829aafeb28719ece91d3ef71.png",
+            "text": "잘 씻은 쌀은 깨끗한 물과 함께 믹서기에 갈아줍니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/d36c99daccd1cd3fe76727f9c745da671.png",
+            "text": "잘 갈린 쌀을 냄비에 넣고 끓이면서 계속 저어줍니다. 타지 않게 계속 저어주는 게 중요합니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/b91ebfb8142d518fc11a5d45f6bbda2f1.png",
+            "text": "아까 준비했던 참깨가루와 두부를 넣고 부드럽게 저어줍니다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ec88552-1226-46d1-8bd4-527bdf1dffb8",
+      "writer": "포차코",
+      "time": "2023-02-07T00:41:30.377Z",
+      "data": {
+        "title": "[1인 가구 홈베이킹] 촉촉하고 달콤한 초코머핀 만들기",
+        "category": [
+          "베이킹",
+          "자취",
+          "간식"
+        ],
+        "time": "60",
+        "ingredients": [
+          {
+            "name": "버터",
+            "quantity": "60",
+            "unit": "g"
+          },
+          {
+            "name": "계란",
+            "quantity": "1",
+            "unit": "개"
+          },
+          {
+            "name": "코코아 가루",
+            "quantity": "12",
+            "unit": "g"
+          },
+          {
+            "name": "소금",
+            "quantity": "2",
+            "unit": "g"
+          },
+          {
+            "name": "초코칩",
+            "quantity": "35",
+            "unit": "g"
+          },
+          {
+            "name": "설탕",
+            "quantity": "60",
+            "unit": "g"
+          },
+          {
+            "name": "밀가루 박력분",
+            "quantity": "100",
+            "unit": "g"
+          },
+          {
+            "name": "베이킹 파우더",
+            "quantity": "3",
+            "unit": "g"
+          },
+          {
+            "name": "우유",
+            "quantity": "35",
+            "unit": "g"
+          }
+        ],
+        "tags": [
+          "베이킹",
+          "초코칩",
+          "초코머핀",
+          "머핀",
+          "홈베이킹"
+        ],
+        "thumbnail": {
+          "name": "e653eb2fc9a1c849a086614e79d295ea1.jpg",
+          "path": "https://recipe1.ezmember.co.kr/cache/recipe/2021/11/21/e653eb2fc9a1c849a086614e79d295ea1.jpg"
+        },
+        "contents": [
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2021/11/21/404f65c5c227f9b95ae3895a52db1a901.jpg",
+            "text": "실온에 둔 버터 60g를 잘 녹여주시고, 그 위에 설탕 60g을 넣어 사각사각 소리가 나지 않을때 까지 섞어주세요."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2021/11/21/60c73d601bdba9eb3a4faa47096857a81.jpg",
+            "text": "실온에 1시간 정도 둔 계란 1개를 넣어서 섞어줍니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2021/11/21/7578029dc413179fdfaa14e6c210d6111.jpg",
+            "text": "이제 가루류를 넣어줄게요.\n박력분100g + 코코아가루 12g + 소금2g + 베이킹 파우더3g을 채에 걸러 넣고 섞어줍니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2021/11/21/e261f35ec60db7063383ebf94ffe86d01.jpg",
+            "text": "좀 뻑뻑해진 반죽에 우유 35g을 넣어 부드러운 반죽으로 만들어줍니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2021/11/21/b2fe00872750325ac4b3a8b6b439cf5d1.jpg",
+            "text": "마지막으로 초코칩 35g을 넣어 섞어줍니다."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2021/11/21/0d236f14035b048869b69c2f1c32213c1.jpg",
+            "text": "반죽을 머핀틀에 잘 담아주고 오븐 180도에 25분간 구우면 끝!\n머핀틀에는 꽉 채우지 말고 70~80% 담아주는게 좋아요."
+          },
+          {
+            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2021/11/21/0ae6f0793ecb965824c0162b6d7c0e8c1.jpg",
+            "text": "윗면이 터져서 더 먹음직스운 초코머핀 완성!\n저는 집에 있는 스링클을 넣어서 모양을 더 이쁘게 만들어줬답니다."
+          }
+        ]
+      }
+    }
+  ]
+}
