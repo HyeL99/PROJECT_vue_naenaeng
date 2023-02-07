@@ -7,7 +7,6 @@ import LoginView from "@/views/LoginView.vue";
 import SignUpView from "@/views/SignUpView.vue";
 import MypageView from "@/views/MypageView.vue";
 import UploadRecipeView from "@/views/UploadRecipeView.vue";
-import RecipeCardComponent from "@/components/RecipeCardComponent.vue";
 import RecipeDetailView from "@/views/RecipeDetailView.vue";
 
 Vue.use(VueRouter)
