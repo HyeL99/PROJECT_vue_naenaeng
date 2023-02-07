@@ -14,11 +14,11 @@
       </ul>
     </div>
   </section>
-<!--  <section>-->
-<!--    <div class="inner">-->
-<!--      <h2>[ 재료별 ]</h2>-->
-<!--    </div>-->
-<!--  </section>-->
+<!--  <section>
+        <div class="inner">
+          <h2>[ 재료별 ]</h2>
+        </div>
+      </section>-->
   <section class="recipeView">
     <div class="inner">
       <h2>[ {{title}} ]</h2>
@@ -44,7 +44,7 @@ export default {
   data(){
     return{
       title:'',
-      keywordList: [
+      /*keywordList: [
         {
           title: '생선',
           words:[
@@ -373,7 +373,7 @@ export default {
 
           ]
         },
-      ],
+      ],*/
       recipeArray:[],
     }
   },
