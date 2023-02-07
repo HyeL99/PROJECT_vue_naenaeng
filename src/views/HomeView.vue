@@ -44,7 +44,7 @@
 
 import TitleComponent from "@/components/TitleComponent.vue";
 import {mapState} from "vuex";
-import RecipeCardComponent from "@/components/RecipeCardComponent.vue";
+import RecipeCardComponent from "../components/RecipeCardComponent.vue";
 
 export default {
   name: 'HomeView',
